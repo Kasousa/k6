@@ -8,7 +8,7 @@ export const options = {
             target: 100,
         },
         {
-            duration: '20m',
+            duration: '10m',
             target: 100,
         },
         {
@@ -20,5 +20,4 @@ export const options = {
 
 export default function (){
     http.get('https://test.k6.io');
-
 }
