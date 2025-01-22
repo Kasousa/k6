@@ -35,7 +35,7 @@ k6 is a powerful tool for load testing web applications, allowing you to simulat
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/YOUR_USER/k6-performance-tests.git
+   git clone https://github.com/Kasousa/k6.git
    cd k6-performance-tests
 
 ## Running Tests
